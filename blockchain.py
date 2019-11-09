@@ -1,6 +1,6 @@
 # Intializing our blockchain list
 MINING_REWARD = 10
-
+ 
 genesis_block = {
         'previous_hash':'',
         'index': 0, 
